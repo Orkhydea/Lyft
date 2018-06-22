@@ -1,0 +1,25 @@
+body,  html{
+  margin: 0;
+  padding: 0;
+
+}
+.container-fluid{
+  background-image: url("../assets/images/carretera.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.logoblancolyft{
+  text-align: center;
+  padding-top: 1em;
+  }
+.life{
+  margin: 0;
+}
+.sing, .login{
+  color: white;
+  border: 2px solid white;
+  padding: 1em;
+  width: 2vh;
+}

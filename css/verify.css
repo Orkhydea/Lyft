@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+header{
+  height: 30vh;
+}
+.row-sign{
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  width: 100vh;
+  display: table;
+}
+.brand{
+  float: left;
+  width: 20vh;
+  padding: 1em;
+}
+.brand1{
+  float: center;
+  width: 80vh;
+  margin-left: 0;
+  }
+.card{
+  height: 35vh;
+  width: 80vh;
+}
+.row-text{
+  text-align: center;
+  width: 70vh;
+}
+.dropdown-trigger, .text{
+  border: 1px solid black;
+  height: 10vh;
+  padding: inherit;
+  position: relative;
+}
+.btn-large{
+  width: 60vh;
+  position: center;
+}
